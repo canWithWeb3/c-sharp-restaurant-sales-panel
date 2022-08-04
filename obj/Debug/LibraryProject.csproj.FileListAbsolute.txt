@@ -1,0 +1,11 @@
+C:\Users\canog\source\repos\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\canog\source\repos\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\canog\source\repos\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.AdminSayfası.resources
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\canog\source\repos\LibraryProject\obj\Debug\LibraryProject.pdb
